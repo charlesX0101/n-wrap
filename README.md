@@ -31,8 +31,8 @@ Follow the on-screen menu to select a scan, input your target (IP or domain), an
 ---
 
 ## Example Interaction
-
-
+```
+==============================
          n-wrap v1.0
   A Simple Nmap Scan Wrapper
 ------------------------------
@@ -49,7 +49,7 @@ Select a scan type:
 5) Full Port Range Scan
 6) Show My Local Network Info
 0) Exit
-
+```
 Enter your choice [0-6]: 2
 Enter IP address or domain to scan: 192.168.1.1
 Save output to file? (y/n): y
@@ -79,12 +79,15 @@ brew install nmap
 
 ## Project Structure
 
+```
 n-wrap/
 n-wrap/n-wrap.sh
 n-wrap/README.md
 n-wrap/LICENSE
 n-wrap/docs/
 n-wrap/docs/usage.md
+```
+
 
 ---
 
