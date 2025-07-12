@@ -80,11 +80,11 @@ brew install nmap
 ## Project Structure
 
 n-wrap/
-├── n-wrap.sh         Main script
-├── README.md         Project overview and instructions
-├── LICENSE           MIT license
-└── docs/
-    └── usage.md      Extended examples and notes (optional)
+n-wrap/n-wrap.sh
+n-wrap/README.md
+n-wrap/LICENSE
+n-wrap/docs/
+n-wrap/docs/usage.md
 
 ---
 
