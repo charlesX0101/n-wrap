@@ -32,7 +32,7 @@ Follow the on-screen menu to select a scan, input your target (IP or domain), an
 
 ## Example Interaction
 
-==============================
+
          n-wrap v1.0
   A Simple Nmap Scan Wrapper
 ------------------------------
