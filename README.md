@@ -1,4 +1,4 @@
-# n-wrap
+# N-Wrap
 
 n-wrap is a simple, lightweight Bash wrapper for the network scanning tool nmap. It was created to make it easier for beginners and IT professionals to run common nmap scans without needing to remember specific flags or syntax.
 
